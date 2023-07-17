@@ -1,13 +1,13 @@
 {
-  "name": "YouTube Downloader Bot",
-  "description": "A telegram bot To Download Youtube Files ",
+  "name": "utube doloder video boat",
+  "description": "A telegram bot To Download You-tubes Files ",
   "logo": "https://telegra.ph/file/6a3b1febade2313dd0dca.jpg",
   "keywords": [
-    "Youtube","YoutubeDownloader"
+    "Richatube","RichtubeDownloader"
   ],
-  "repository": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "repository": "https://github.com/kumarmanish21/utub-Downld-Butu",
   "success_url": "https://t.me/youtubdlbot",
-  "website": "https://github.com/aryanvikash/Youtube-Downloader-Bot",
+  "website": "https://github.com/kumarmanish21/utub-Downld-Butu",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
